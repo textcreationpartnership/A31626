@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Cabinet of grief, or, The French midwife's miserable moan for the barbarous murther committed upon the body of her husband with the manner of her conveying away his limbs and of her execution, she being burnt to ashes on the 2d of March in Leicester-fields.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31626</idno>
+            <idno type="STC">Wing C188</idno>
+            <idno type="STC">ESTC R37457</idno>
+            <idno type="EEBO-CITATION">16959186</idno>
+            <idno type="OCLC">ocm 16959186</idno>
+            <idno type="VID">105466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105466)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1611:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Cabinet of grief, or, The French midwife's miserable moan for the barbarous murther committed upon the body of her husband with the manner of her conveying away his limbs and of her execution, she being burnt to ashes on the 2d of March in Leicester-fields.</title>
+               </titleStmt>
+               <extent>[2], 13 p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[J.] Blare ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.p. illus. by Woodcut.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England.</term>
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105466:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> CABINET <hi>of Grief:</hi> OR, THE <hi>French</hi> MIDVVIFE'S Miſerable mean for the Barbarous Murther committed upon the Body o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her Husband<g ref="char:punc">▪</g>
+            </p>
+            <p>With the manner of her Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>veying away hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Limbs<g ref="char:punc">▪</g> and of her Execution; She being Burnt to Aſhes on the 2d. of <hi>March</hi> in <hi>Leiceſter-Fields.</hi>
+            </p>
+            <figure>
+               <figDesc>the burning of the French midwife</figDesc>
+            </figure>
+            <p>
+               <hi>Licenſed accordin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Order</hi>
+            </p>
+            <p>
+               <hi>Blare,</hi> at the <hi>Looking-Glaſs</hi> on <hi>London-Bridge.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105466:2"/>
+            <pb n="1" facs="tcp:105466:2" rendition="simple:additions"/>
+            <head>A <hi>Cabinet</hi> of <hi>GRIEF;</hi> OR, The <hi>French</hi> Midwifes miſerable moan, <hi>&amp;c.</hi>
+            </head>
+            <p>UNder a ſenſe of that Horrid and Hel<g ref="char:EOLhyphen"/>liſh Sin of Murther, which I lately committed; I deſire to leave to the World this following Treatiſe.</p>
+            <p>Firſt, the Cauſe of my Provocation: Secondly, the manner in brief of the Mur<g ref="char:EOLhyphen"/>ther: And thirdly, my hearty and un<g ref="char:EOLhyphen"/>feigned ſorrow for my Offence, which I hope may ſtand as a Monument to ſuc<g ref="char:EOLhyphen"/>ceeding Ages, of that Unmerciful Mur<g ref="char:EOLhyphen"/>ther, which brings me to my Miſerable End.</p>
+            <p>Firſt of the Cauſe; Since the time I be<g ref="char:EOLhyphen"/>came the Unhappy Wife of that miſerable Man, his Unnaturalneſs and Cruelty has
+<pb n="2" facs="tcp:105466:3"/>been ſuch, that no Tongue is able to ex<g ref="char:EOLhyphen"/>preſs the daily ſorrows that I underwent: from my unhappy Deſtiny let every Man and Wife be warned, let not ſin and Sathan provoke your paſſions, but learn to live in Love and Unity one with ano<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her, for where it is otherwiſe, there is little hope of a happy life, or a bleſſing from God, as I by ſad Experience know full well.</p>
+            <p>
+               <hi>Dennis</hi> my Husband, whom I Murthe<g ref="char:EOLhyphen"/>red, through the bad Company he kept, and the abuſes he gave me, caus'd great confuſion between us. Time af<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er time would he ranſack and rifle me of what I earned by my induſtrious Care; then would he ramble into Forreign parts, till he had waſted and conſum'd the ſame. This being done, he would return to me home again, with promiſe of amendment of lif<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, yet in few days he would run into the ſame Extravagancy, to my great diſcontent, tho' I often endeavour'd to perſwade and reconcile him, yet it was all in vain; for the more I entreated the more he would revile me, vowing, That for the future it ſhould be worſe and worſe: this aggrava<g ref="char:EOLhyphen"/>ted
+<pb n="3" facs="tcp:105466:3"/>my ſorrows, and made them more than I was able to bear; ſo that groaning under the burthen of my afflictions, <hi>I</hi> knew not what courſe in the World to take, to eaſe my ſelf of that miſerable bon<g ref="char:EOLhyphen"/>dage I was in. At theſe times the Devil was buſie with me, ſo that I often before this time attempted to do the ſame, but was prevented by the aſſiſting grace of God; but he ſtill running on in this race of Wickedneſs, it gave freſh occaſion of the ſame temptations again; but yet the ſorrows and ſufferings that I underwent I own to be no Argument that I ſhould make my ſelf guilty of his Blood; yet wanting the fear of God, I gave way to the Temp<g ref="char:EOLhyphen"/>tation, the which has proved the Ruine of us both: my unhappy Husband has fall'n by my hand of Cruelty, and now I for this bloody Fact do wait for my juſt Puniſh<g ref="char:EOLhyphen"/>ment; which is, to end my days in Flames, in view of thouſands that will be there to ſee my end.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:105466:4"/>
+               <head>A Brief Account of the manner of Commit<g ref="char:EOLhyphen"/>ing this Crime.</head>
+               <p>
+                  <hi>JAnuary</hi> the 26th. in the Morning, when he had been all the foregoing Night in ſuch bad company as he kept, he returned to his home, the Door being left for his coming in; he entred the Room while I was in a ſweet ſleep; free from the thoughts of all manner of Evil, but he be<g ref="char:EOLhyphen"/>ing diſguiſed in Drink, fell foul upon me, and bitterly abus'd me with blows, which did exaſperate my Spirits to that height of Paſſion, that I reſolved in my Heart to be Revenged of him, altho' it proved my overthrow: and in this manner did I con<g ref="char:EOLhyphen"/>trive my deſperate Deſign: he going into his Bed and falling into a ſound ſleep, I took my fair opportunity in this wiſe.</p>
+               <p>A Pack-thread being near at hand, the which he had uſed for a Garter, the ſame did I take, and putting of it round his Neck, made a Nooſe and Strangled him
+<pb n="5" facs="tcp:105466:4"/>in his ſleep, tho' he ſtrugg'ld for his life, yet I hardned my Heart againſt him, and reſolved to go forward with my deſign: He being dead, continued in our Lodging from <hi>Thurſday</hi> till the <hi>Munday</hi> f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llowing, during which time, the <hi>Horror of Conſci<g ref="char:EOLhyphen"/>ence</hi> ſo tormented me, that I could not be at reſt until I had reveal'd it to ſome of my Friends, whom I thought I might truſt with ſuch a Secret; but inſtead of their ſiding with me in this black and bloody Crime which I had committed, they blamed me for my Unnatural Cruelty, and was ab<g ref="char:EOLhyphen"/>horr'd and held deteſtable in their ſight.</p>
+               <p>
+                  <hi>Munday</hi> the 30th. of <hi>January,</hi> I having contrived this following means to convey him away, I reſolved then to put it into practice: for the more eaſe of conveying him out of our Lodging, I firſt cut off his Head from his Shoulders, after that his Arms and Leggs from his Body, then ta<g ref="char:EOLhyphen"/>king the Trunk of his Body, I wrapt it up in a Cloth, and lugg'd it forth my ſelf by Night, throwing it upon a Dunghil in <hi>Par<g ref="char:EOLhyphen"/>kers</hi> Lane, and then his Limbs I threw into an Houſe of Office in the <hi>Savoy,</hi> over
+<pb n="6" facs="tcp:105466:5"/>the ſide of the Thames; the Head into a Vault, near the <hi>Strand.</hi>
+               </p>
+               <p>This being done, I concluded all was ſafe and well, bat the Carcaſs was ſoon ſound, and the next day the Limbs, which bloody Tragedy put the whole Town in<g ref="char:EOLhyphen"/>to a Conſternation, wo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dring who might be the Actor of ſo bloody a deed; but I remained un-apprehended till the <hi>Thurſ<g ref="char:EOLhyphen"/>day</hi> following at Night, when being ſeized on by an Officer, I trembled, for <hi>Conſcience</hi> began to afflict me: I was ſoon brought to Examination, then hurry'd to Priſon, where <hi>I</hi> bitterly bewail'd my unhappy ſtate.</p>
+               <p>During the time of my Impriſonment, <hi>I</hi> began to conſider with my ſelf what <hi>I</hi> had done, and likewiſe what <hi>I</hi> had brought my ſelf unto, at which ſerious Conſidera<g ref="char:EOLhyphen"/>tion, <hi>I</hi> was afflicted in my Mind, wound<g ref="char:EOLhyphen"/>ed in my Conſcience, and drowned in my Tears; the Guilt of my Crime was the Cauſe of my Grief; often did <hi>I</hi> earneſtly deſire of God that he would make me ſen<g ref="char:EOLhyphen"/>ſible of my ſins, and likewiſe truly ſorrow<g ref="char:EOLhyphen"/>ful for the ſame. Upon my bended knees
+<pb n="7" facs="tcp:105466:5"/>often did <hi>I</hi> preſent him with a broken Heart, truly humbled under a ſenſe of ur<g ref="char:EOLhyphen"/>feigned ſorrow for that black Crime<g ref="char:punc">▪</g> that <hi>I</hi> had committed, earneſtly begging of God to pardon my offences, and receive me in<g ref="char:EOLhyphen"/>to his f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vour. The ſhort time <hi>I</hi> have in this world, <hi>I</hi> purpoſe, with Gods aſſiſtance, to ſpend in Holy Meditations, and the company of ſuch whoſe good Inſtructions may help to prepare my Soul for Eternity; having ſo few Minntes in my Glaſs, there's no time to dally and let them ſlip, but ſo to make a full Improvement of the utmoſt of them, that <hi>I</hi> may find the comfort and benefit of the ſame to Eternity.</p>
+               <p>Being brought to the Court of Juſtice, in order to Tryal, the Fact <hi>I</hi> confeſt, and <hi>Guil<g ref="char:EOLhyphen"/>ty</hi> was all <hi>I</hi> cou'd plead, but the Court in tenderneſs bid me put my ſelf upon Try<g ref="char:EOLhyphen"/>al, notwithſtanding all <hi>I</hi> had ſaid, but <hi>Con<g ref="char:EOLhyphen"/>ſcience</hi> told me 'twas true, <hi>I</hi> only pleaded <hi>Guilty,</hi> which was Recorded, and ſo <hi>I</hi> re<g ref="char:EOLhyphen"/>ceiv'd the due Sentence, <hi>To be burnt till I was dead,</hi> which was the moſt terrible and aſtoniſhing ſound in my Ears, that ever I heard in my Life.</p>
+            </div>
+            <div type="song">
+               <pb n="8" facs="tcp:105466:6"/>
+               <opener>For the better impreſſing of this Subject on your Hearts and Minds, take theſe following Lines, which may be Sung to the Tune of, <hi>The Pious Chriſtians Exhortation.</hi>
+               </opener>
+               <lg>
+                  <l>A Lack! my very heart does bleed,</l>
+                  <l>to ſee my woful Deſtiny,</l>
+                  <l>You that my Dying Lines ſhall read,</l>
+                  <l>I pray you all to pitty me.</l>
+               </lg>
+               <lg>
+                  <l>A Murder here I did commit,</l>
+                  <l>for which I have deſerved Death,</l>
+                  <l>This Crime I never ſhall forget,</l>
+                  <l>as long as I have life or breath.</l>
+               </lg>
+               <lg>
+                  <l>With grief and ſorrow am I ſlain,</l>
+                  <l>to ſee the Race that I have run,</l>
+                  <l>A thouſand times I wiſh in vain,</l>
+                  <l>this Wicked deed I had not done.</l>
+               </lg>
+               <lg>
+                  <l>It was my Husband whom I kill'd,</l>
+                  <l>and Mangl'd at ſo ſtrange a rate,</l>
+                  <l>The World may be with Wonder fill'd,</l>
+                  <l>while I this Tragedy relate.</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:105466:6"/>
+                  <l>In ſorrow here my hands I wring,</l>
+                  <l>on Wrack of Conſcience am I rowl'd,</l>
+                  <l>What did provoke me to this thing,</l>
+                  <l>in brief to you I will unfold.</l>
+               </lg>
+               <lg>
+                  <l>With care and grief I was oppreſt,</l>
+                  <l>e're ſince I did become his Wife,</l>
+                  <l>And never could have peace or reſt,</l>
+                  <l>but led a diſcontented life.</l>
+               </lg>
+               <lg>
+                  <l>No Tongue is able to expreſs</l>
+                  <l>what I with him did undergo,</l>
+                  <l>He Cruel was and pittileſs,</l>
+                  <l>which now has prov'd our overthrow.</l>
+               </lg>
+               <lg>
+                  <l>From time to time he Riffl'd me,</l>
+                  <l>ſcarce leaving any Cloaths to wear,</l>
+                  <l>Beſides his Acts of Cruelty,</l>
+                  <l>this drove me into deep Diſpair.</l>
+               </lg>
+               <lg>
+                  <l>My heart was ready then to break,</l>
+                  <l>in private I ſhed many a Tear,</l>
+                  <l>As knowing not what courſe to take,</l>
+                  <l>my ſorrows they were ſo ſevere.</l>
+               </lg>
+               <lg>
+                  <l>Againſt me his whole heart he ſet,</l>
+                  <l>and often vow'd my Blood to ſpill,</l>
+                  <l>
+                     <pb n="10" facs="tcp:105466:7"/>
+Morning and Night when e're we met,</l>
+                  <l>confuſion was our Greeting ſtill.</l>
+               </lg>
+               <lg>
+                  <l>When him I ſtrove to Reconcile,</l>
+                  <l>ſaying, thou know'ſt how 'tis with us,</l>
+                  <l>Maliciouſly he'd me Revile,</l>
+                  <l>and ſwear it ſhould be worſe and worſe.</l>
+               </lg>
+               <lg>
+                  <l>Though he to Wickedneſs was bent,</l>
+                  <l>and ſhow'd himſelf ſo croſs and grim,</l>
+                  <l>I own this was no Argument</l>
+                  <l>that I, alas! ſhould Murder him.</l>
+               </lg>
+               <lg>
+                  <l>But Sin and Satan ſo took place,</l>
+                  <l>by living ſo from time to time,</l>
+                  <l>For want of Gods preventing Grace,</l>
+                  <l>I did commit this horrid Grime.</l>
+               </lg>
+               <lg>
+                  <l>When Man and Wife lives at diſcord,</l>
+                  <l>they may expect both fear and dread,</l>
+                  <l>For there's no Bleſſing from the Lord,</l>
+                  <l>where ſuch a Wicked life is led.</l>
+               </lg>
+               <lg>
+                  <l>For coming from bad Company,</l>
+                  <l>when I was in a ſweet Repoſe,</l>
+                  <l>He from the ſleep did waken me,</l>
+                  <l>with many cruel bitter Blows.</l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="tcp:105466:7"/>
+                  <l>This did the height of Anger raiſe,</l>
+                  <l>when he did ſuch unkinkneſs ſhow,</l>
+                  <l>That I reſolv'd to end his days,</l>
+                  <l>altho' it prov'd my overthrow.</l>
+               </lg>
+               <lg>
+                  <l>To Bed he ſtraight ways did repair,</l>
+                  <l>as ſoon as he theſe Blows did give,</l>
+                  <l>Thought I thy life I will inſnare,</l>
+                  <l>thou haſt but little time to live.</l>
+               </lg>
+               <lg>
+                  <l>I vow'd no favour to afford,</l>
+                  <l>to him that us'd me ſo amiſs,</l>
+                  <l>Straight he I Strangl'd with a Cord,</l>
+                  <l>when as he little thought of this.</l>
+               </lg>
+               <lg>
+                  <l>Altho' he ſtrugl'd for his life,</l>
+                  <l>as ſurely very well he might,</l>
+                  <l>Yet I his cruel-hearted Wife,</l>
+                  <l>reſolved to expell my ſpight.</l>
+               </lg>
+               <lg>
+                  <l>Thus him of life I did deprive,</l>
+                  <l>then in his Bed ſome days he lay,</l>
+                  <l>My greateſt care was to contrive,</l>
+                  <l>how to convey his Corps away.</l>
+               </lg>
+               <lg>
+                  <l>To bear him forth my ſelf alone,</l>
+                  <l>I cut off Head, Arms, c'ry Limb,</l>
+                  <l>
+                     <pb n="12" facs="tcp:105466:8"/>
+Had I not had a Heart of Stone,</l>
+                  <l>I could hot thus have Mangl'd him.</l>
+               </lg>
+               <lg>
+                  <l>His Head into a Vault I threw,</l>
+                  <l>his Carcaſs on a foul Dung-hill,</l>
+                  <l>His other Limbs into the <hi>Thames,</hi>
+                  </l>
+                  <l>and then I thought all things was well.</l>
+               </lg>
+               <lg>
+                  <l>Safe was I then, as I did think,</l>
+                  <l>yet ſeiz'd I was in a ſhort time,</l>
+                  <l>For Heavens Juſtice would not wink</l>
+                  <l>at ſuch a black and bloody Crime.</l>
+               </lg>
+               <lg>
+                  <l>Then to a Priſon was I ſent,</l>
+                  <l>there to bewail my wretched ſtate,</l>
+                  <l>And there in Tears I did lament,</l>
+                  <l>but this was when it was too late.</l>
+               </lg>
+               <lg>
+                  <l>To Juſtice was I brought indeed,</l>
+                  <l>where Conſcience in my face did flye,</l>
+                  <l>
+                     <hi>Guilty</hi> was all that I could plead,</l>
+                  <l>I knew I did deſerve to Dye.</l>
+               </lg>
+               <lg>
+                  <l>O then my ſad and diſmal Doom,</l>
+                  <l>ſoon after this I did receive,</l>
+                  <l>It was in Fire to Conſume,</l>
+                  <l>which made my very heart to grieve.</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:105466:8"/>
+                  <l>Alas! I knew not what to ſay,</l>
+                  <l>'tis Death alone muſt end the ſtrife,</l>
+                  <l>Behold this dreadful diſmal Day,</l>
+                  <l>the which muſt end my deareſt Life.</l>
+               </lg>
+               <lg>
+                  <l>Altho' I Weep and make ſad moan,</l>
+                  <l>as being Wounded to the heart,</l>
+                  <l>I cannot chuſe but needs muſt own</l>
+                  <l>it is no more then my Deſert.</l>
+               </lg>
+               <lg>
+                  <l>To ſee me go ſome Thouſands throng,</l>
+                  <l>and thus in ſhame and much diſgrace,</l>
+                  <l>Through many Crowds I paſt along,</l>
+                  <l>unto the Execution place.</l>
+               </lg>
+               <lg>
+                  <l>Lord, tho' my Body here muſt Burn,</l>
+                  <l>for my ſad Crime ſo groſs and foul,</l>
+                  <l>Yet when I ſhall to Aſhes turn,</l>
+                  <l>receive my poor Immortal Soul.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:105466:9" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>public execution of the French midwife in Leicester Fields</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:105466:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
